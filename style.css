@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    padding: 10px;
+}
+
+header img {
+    margin-right: 10px;
+}
+
+header b {
+    font-size: 20px;
+    
+}
+
+
+
+header a {
+    background-color: navy;
+    text-decoration: none;
+    color: white;
+    border: 1px solid navy;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+header {
+    background-color: royalblue;
+}
+
+footer {
+    background-color: white;
+}
+
+h1 {
+    color: orange;
+    border: 5px solid purple;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+footer {
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+}
+
+footer p {
+    background-color: gray;
+    color:white;
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 20px;
+    background-color: navy;
+    text-align: center;
+    border: 1px solid navy;
+    border-radius: 20px;
+    color: white;
+    
+}
+
+
+
+.produck {
+    background-color: chocolate;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+.optom {
+    color: blue;
+}
+
+.company {
+    color: blue;
+}
+
+.top {
+    text-decoration: none;
+    border: 3px solid navy;
+    
+}
+
+.how {
+    color: blue;
+
+}
+
+.context {
+    text-decoration: none;
+    border: 3px solid navy;
+    padding: 5px;
+}
+
+.season {
+    color: blue;
+}
